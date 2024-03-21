@@ -24,12 +24,14 @@
 
 ###### Nice to meet you, **i'am** ...
 
-- 🇨🇴 From coffee and magical realism country
+- 🇨🇴 From magical realism country
+- 🎓 Graduate engineer
 - 🔭 Enthusiast of new technologies 
 - 🌱 Always working on myself
 - 🏁 Ready for any challenge
 - 🤝 Glad to help us mutually
-- 🔎 Learning from everything and everyone
+- 🔎 Learning from everything
+- 🙋 Learning from everyone
 - 🎵 Lover of good Music
 </div>
 
@@ -67,10 +69,10 @@
 
 <div align="center">
   <a href="https://github.com/johancalr/i-need-it" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=johancalr&repo=i-need-it&theme=tokyonight" alt="i-need-it" width="450"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=johancalr&repo=i-need-it&theme=tokyonight" alt="i-need-it" width="420"/>
   </a>
   <a href="https://github.com/johancalr/todo-list" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=johancalr&repo=todo-list&theme=tokyonight" alt="todo-list" width="450"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=johancalr&repo=todo-list&theme=tokyonight" alt="todo-list" width="420"/>
   </a>
 </div>
 
@@ -80,8 +82,8 @@
 
 <div align="center">
   <a href="https://github.com/johancalr/">
-    <img src="https://github-readme-stats.vercel.app/api?username=johancalr&include_all_commits=true&count_private=true&show_icons=true&line_height=35&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=johancalr&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"  alt="johancalr"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=johancalr&include_all_commits=true&count_private=true&show_icons=true&line_height=35&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="420"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=johancalr&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="420"  alt="johancalr"/>
   </a>
 </div>
 
