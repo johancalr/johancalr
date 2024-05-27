@@ -54,6 +54,7 @@
 ### <img align="center" src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width="50"> Atually learning/using
 <p>
   <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" height=25>
+  <img src="https://img.shields.io/badge/-Express-05122A?style=flat&logo=express&logoColor=ffffff" height=25>
   <img src="https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite" height=25>
   <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" height=25>
   <img src="https://img.shields.io/badge/-Tailwind_CSS-05122A?style=flat&logo=tailwindcss" height=25>
@@ -73,6 +74,9 @@
   </a>
   <a href="https://github.com/johancalr/todo-list" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=johancalr&repo=todo-list&theme=tokyonight" alt="todo-list" width="420"/>
+  </a>
+  <a href="https://github.com/johancalr/store-api" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=johancalr&repo=store-api&theme=tokyonight" alt="store-api" width="420"/>
   </a>
 </div>
 
